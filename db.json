@@ -9,17 +9,27 @@
     },
     {
       "id": 2,
-      "fullname": "Rose",
+      "fullname": "Cecilia",
       "checkedIn": false,
       "checkInDate": null,
-      "children": [{ "name": "Nicolas", "age": 5 }]
+      "children": [
+        {
+          "name": "Nicolas",
+          "age": 5
+        }
+      ]
     },
     {
       "id": 3,
       "fullname": "Luis",
       "checkedIn": true,
       "checkInDate": null,
-      "children": [{ "name": "Ted", "age": 15 }]
+      "children": [
+        {
+          "name": "Ted",
+          "age": 15
+        }
+      ]
     }
   ]
 }
