@@ -5,31 +5,21 @@
       "fullname": "Stephen",
       "checkedIn": true,
       "checkInDate": 1490742000000,
-      "children": null
+      "baggage": ""
     },
     {
       "id": 2,
       "fullname": "Cecilia",
       "checkedIn": false,
       "checkInDate": null,
-      "children": [
-        {
-          "name": "Nicolas",
-          "age": 5
-        }
-      ]
+      "baggage": ""
     },
     {
       "id": 3,
       "fullname": "Luis",
       "checkedIn": true,
       "checkInDate": null,
-      "children": [
-        {
-          "name": "Ted",
-          "age": 15
-        }
-      ]
+      "baggage": ""
     }
   ]
 }
