@@ -3,7 +3,7 @@
     {
       "id": 1,
       "fullname": "Stephen",
-      "checkedIn": true,
+      "checkedIn": false,
       "checkInDate": 1490742000000,
       "baggage": ""
     },
